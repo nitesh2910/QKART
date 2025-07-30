@@ -51,4 +51,4 @@
 - Automatic deployment on every push to the main branch  
 - Optimized for fast global delivery via Vercel’s CDN  
 - Vercel handles routing for SPA (Single Page Application) paths seamlessly  
-- Live URL: [https://your-qkart.vercel.app](https://your-qkart.vercel.app)
+- Live URL: [https://your-qkart.vercel.app](https://qkart-frontend-gray.vercel.app/)
