@@ -18,6 +18,8 @@
 
 ---
 
+<img width="613" height="401" alt="image" src="https://github.com/user-attachments/assets/75e17f89-d1be-4887-9eba-1b16b1306c07" />
+
 ## ⚙️ Features & Implementation Details
 
 ### 1. Registration & Login
