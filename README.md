@@ -1,10 +1,10 @@
-# QKart‑Frontend 🚀
+# QKart‑Frontend
 
 **QKart** is a React‑based e‑commerce application enabling users to browse and purchase a wide range of products, featuring user registration, login, search, responsive cart functionality, and seamless checkout flows.
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - **Frontend**: React.js  
 - **Routing**: React Router  
@@ -14,7 +14,7 @@
 - **UX Enhancements**: Debounced search input, form validation, conditional rendering  
 - **Storage**: localStorage (session persistence)  
 - **Styling**: CSS / Material‑UI / responsive design  
-- **Deployment**: Netlify (or any static‑hosting platform)
+- **Deployment**: Vercel
 
 ---
 
